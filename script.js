@@ -23,15 +23,15 @@
 // }
 
 //4) fate inserire all'utente l'età e se è maggiore o uguale a 18 rispondete "puoi entrare"
-// const età = prompt("Quanti anni hai?");
-// etàNumber = Number(età);
+// const age = prompt("Quanti anni hai? 👮");
+// ageNumber = Number(age);
 
-// if (etàNumber >= 18) {
-//     alert("Puoi entrare.");
+// if (ageNumber >= 18) {
+//     alert("Puoi entrare. 👍");
 // } else {
-//     alert("Mi dispiace, non puoi entrare.")
+//     alert("Mi dispiace, non puoi entrare. ❌");
 // }
 
 //5) fate inserire all'utente una stringa e convertitela in maiuscolo (cercare su internet)
-// const testo = prompt("Inserisci una frase o una parola:")
-// alert("In maiuscolo: " + testo.toLocaleUpperCase());
+// const testo = prompt("Inserisci una frase o una parola:");
+// alert("In maiuscolo: " + testo.toUpperCase());
